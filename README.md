@@ -1,4 +1,4 @@
-# Waves - America's Cup Made Accessible 🌊⛵ - Progetto The Big Hack 2025
+# Waves - Muoviti meglio, vivi di più 🌊⛵ - Progetto The Big Hack 2025
 
 > App di navigazione intelligente per ottimizzare l'esperienza dei visitatori durante l'America's Cup 2027 a Napoli.
 
