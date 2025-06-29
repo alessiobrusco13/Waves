@@ -13,6 +13,8 @@ La soluzione combina tre funzionalità principali:
 
 L'app trasforma una potenziale esperienza caotica in un evento fluido e coinvolgente, creando un ecosistema digitale che valorizza l'intera manifestazione.
 
+### 📖 Per saperne di più sulla ricerca svolta: https://www.notion.so/Waves-Muoviti-meglio-vivi-di-2214f62bca3c80b2b3abc90a54e19a7a?source=copy_link
+
 ## 🏗️ Tecnologie Cisco Meraki
 
 ### Hardware Utilizzato
