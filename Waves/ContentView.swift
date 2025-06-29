@@ -20,24 +20,12 @@ struct ContentView: View {
     }
     
     var body: some View {
-        TabView {
-            Tab("Events", systemImage: "sailboat") {
-                EventsView()
-            }
-            
-            Tab("Favorites", systemImage: "star") {
-                
-            }
-            
-            Tab(role: .search) {
-                NavigationStack {
-                    List(contents, id: \.self) { i in
-                        Text(i.formatted())
-                            .searchable(text: $searchText)
-                    }
-                }
-            }
+        
+        NavigationStack {
+            MapView()
+//                .navigationTitle("Mappa")
         }
+        
     }
 }
 
