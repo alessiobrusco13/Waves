@@ -16,6 +16,9 @@ L'app trasforma una potenziale esperienza caotica in un evento fluido e coinvolg
 ### 📖 Per saperne di più sulla ricerca svolta: 
 https://www.notion.so/Waves-Muoviti-meglio-vivi-di-2214f62bca3c80b2b3abc90a54e19a7a?source=copy_link
 
+### ✏️ UI Research:
+https://www.figma.com/design/aRg8vsaTg9vfum95ASh2hC/Waves---America-s-Cup?node-id=0-1&t=Ikl57Vxjz3czQFqg-1
+
 ## 🏗️ Tecnologie Cisco Meraki
 
 ### Hardware Utilizzato
